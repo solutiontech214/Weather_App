@@ -49,14 +49,14 @@ margin-right: 16px;
     cursor: pointer;
 }
 .search button img{
-    width: 16px;
+    width: 18px;
 
 
 }
 .weather-icon{
     width: 170px;
   
-    margin-top: 30px;
+    margin-top: 20px;
 }
 .weather h1{
     font-size: 80px;
