@@ -87,3 +87,13 @@ margin-right: 16px;
     font-size: 28px;
     margin-top: -6px;
 }
+.developer{
+   
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    background:linear-gradient(135deg,#060e0c,#291e72);
+    padding: 10px;
+    color:#afb8a7;
+    font-style: italic;
+    border-radius: 10px;
+}
